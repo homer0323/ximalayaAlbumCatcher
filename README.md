@@ -4,6 +4,8 @@
 
 你只需要启动程序当你想获取信息时。这很方便，不是吗？
 
+## 仅对Windows且安装了Chrome的系统有效！
+
 
 
 # qimiaoyuzhouAlbumCatcher
@@ -11,3 +13,5 @@ This tool can help you to know the serialization status of all albums by "QiMiao
 You can get these informations as long as you are online, because it gets information from Ximalaya real-time.
 
 The only thing you need to do if you want to get the information is that run the program. It's very convenient, isn't it?
+
+## Only work with Windows OS and Chrome!
