@@ -5,6 +5,8 @@
 
 p.s. 你可以找到源代码和打包过的程序在“qimiaoyuzhouAlbumCatcher”分支中。
 
+## 仅对Windows且安装了Chrome的系统有效！
+
 
 
 # ximalayaAlbumCatcher
@@ -12,3 +14,5 @@ You can use this tool to get the information of all the albums on Ximalaya by on
 
 In this way, I, a "fish aviator", made a tool that can help users to know the serialization status of all albums by "QiMiaoYuZhou" from Ximalaya.
 p.s. You can find the source code and the packaged program in the branch "qimiaoyuzhouAlbumCatcher". 
+
+## Only work with Windows OS and Chrome!
